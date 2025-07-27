@@ -1,3 +1,2 @@
 # frans-page00
-Landing page to showcase abilities.
-Not so free at the moment... i'll progres little by little, please feel free to add sugestions... not a begginer, not a senior XD...
+
